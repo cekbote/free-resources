@@ -1,2 +1,4 @@
-# free-resources
-Contains all free resources available online.
+# Free Resources
+
+- [Udemy Courses](https://udemycourses.me/)
+- [Downloadly](https://downloadly.net/)
